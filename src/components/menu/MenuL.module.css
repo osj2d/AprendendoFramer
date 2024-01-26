@@ -1,0 +1,8 @@
+.menu {
+  display: flex;
+  max-width: 30rem;
+  justify-content: space-between;
+  align-content: center;
+  background: green;
+  flex-direction: column;
+}
